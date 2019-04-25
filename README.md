@@ -18,4 +18,4 @@ Install the app by downloading it and running it in your local device
 
 ## Acknowledgments
 
-•	https://www.appbrewery.co/
+•	Angela yu (Developer, appbrewery)
